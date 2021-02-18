@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning AWS Sagemaker and Microsoft Azure ML platforms. 
 - 📫 How to reach me: jobquiroz@hotmail.com | artificialdream.com.mx | www.jobquiroz.com
 - ⚡ Fun fact: I love basset hounds!
--->

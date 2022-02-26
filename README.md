@@ -7,5 +7,6 @@
 - 🌱 I'm also interested in using data science in finance, I really enjoy analyzing data to provide insights.
 - 👯 I’m looking to collaborate on AI or data-based projects with real-world applications
 - 🌱 I’m currently learning AWS Sagemaker, PyTorch and TensorFlow. 
-- 📫 How to reach me: jobquiroz@hotmail.com | www.artificialdream.com.mx | www.jobquiroz.com
+- 📫 How to reach me: jobquiroz@hotmail.com 
+-
 - ⚡ Fun fact: I love basset hounds!
